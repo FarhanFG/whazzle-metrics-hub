@@ -19,6 +19,11 @@ export default {
     },
     extend: {
       colors: {
+        whatsapp: {
+          primary: "#25D366",
+          light: "#DCF8C6",
+          dark: "#075E54"
+        },
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
